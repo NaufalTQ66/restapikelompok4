@@ -96,13 +96,13 @@ public $tanamanlain = [
 ];
 
 public $update_tanamanlain = [
-    'namabuah' => [
+    'namatanamanlain' => [
     'rules' => 'required',
     ],
-    'tutorialbuah' => [
+    'tutorialtanamanlain' => [
     'rules' => 'required',
     ],
-    'manfaatbuah' => [
+    'manfaattanamanlain' => [
     'rules' => 'required',
     ],
 ];

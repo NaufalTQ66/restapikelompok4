@@ -19,11 +19,11 @@ class Users extends \CodeIgniter\Database\Migration
     'type' => 'VARCHAR',
     'constraint' => 100,
     ],
-    'password' => [
+    'alamat' => [
     'type' => 'VARCHAR',
     'constraint' => 100,
     ],
-    'alamat' => [
+    'password' => [
     'type' => 'VARCHAR',
     'constraint' => 100,
     ],

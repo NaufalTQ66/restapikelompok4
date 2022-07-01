@@ -1,7 +1,7 @@
 <?php
 namespace App\Controllers;
 use CodeIgniter\RESTful\ResourceController;
-class tanamanlains extends ResourceController
+class Tanamanlain extends ResourceController
 {
 protected $modelName = 'App\Models\TanamanlainModel';
 protected $format = 'json';
